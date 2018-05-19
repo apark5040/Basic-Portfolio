@@ -35,6 +35,8 @@ h1 {
 
 h2 {
     color: #4aaaa5;
+    font-size: 30px;
+    font-weight: bold;
     
 }
 
@@ -131,9 +133,8 @@ li {
     margin-right: 15px;
 }
 
-.rel1, .rel2, .rel3, .rel4, .rel5 {
+.rel {
     position: relative;
-
 }
 
 h3 {
